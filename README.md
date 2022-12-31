@@ -1,3 +1,3 @@
-<h1>New Year Garland 2.1 — Новогодняя гирлянда</h1>
+<h1>My Project New Year - 2023 | Murat AVCI</h1>
 
-<a href="http://pcvector.net/demo.html?link=/uploads/demo/scripts/other/newyear_garland/index.html">Demo</a>
+<a href="https://github.com/muratavci05/new_year_2023">my github </a>
